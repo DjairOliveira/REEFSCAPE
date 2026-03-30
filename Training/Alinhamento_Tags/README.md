@@ -1,3 +1,7 @@
+```
+Inicio de leitura de pose estimada pela limelight 2+.
+Movimentações realizadas pelo robô com base em posições x y da arena
+```
 # Yet Another Generic Swerve Library (YAGSL) Example project
 
 YAGSL is intended to be an easy implementation of a generic swerve drive that should work for most

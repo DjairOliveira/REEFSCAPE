@@ -1,0 +1,31 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P_P1_1"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P_P1_2"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "P_P1_3"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": "PROCESSOR",
+  "choreoAuto": false
+}
